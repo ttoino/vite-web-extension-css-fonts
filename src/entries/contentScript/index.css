@@ -1,0 +1,5 @@
+@import "remixicon/fonts/remixicon.css";
+
+* {
+    font-family: 'remixicon' !important;
+}
